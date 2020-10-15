@@ -64,8 +64,8 @@ No Activity Tracked This Week
 JavaScript               11 repos            ███████████████░░░░░░░░░░   61.11% 
 Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
 Dockerfile               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-HTML                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-TypeScript               1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
