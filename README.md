@@ -72,7 +72,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/haloislet/haloislet/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/haloislet/haloislet/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
