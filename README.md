@@ -6,23 +6,23 @@ I'm halo
 
 **🐱 My Github Data** 
 
-> 🏆 269 Contributions in the Year 2020
+> 🏆 275 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 12 Public Repositories 
  > 
-13 Private Repository 
+12 Private Repository 
  > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.74% 
 🌆 Daytime    94 commits     ████████░░░░░░░░░░░░░░░░░   31.54% 
-🌃 Evening    120 commits    ██████████░░░░░░░░░░░░░░░   40.27% 
-🌙 Night      52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.45%
+🌃 Evening    113 commits    █████████░░░░░░░░░░░░░░░░   37.92% 
+🌙 Night      59 commits     █████░░░░░░░░░░░░░░░░░░░░   19.8%
 
 ```
 📅 **I'm Most Productive on Saturday** 
