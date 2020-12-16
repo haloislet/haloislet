@@ -14,7 +14,7 @@ I'm halo
  > 
 > 📜 12 Public Repositories 
  > 
-12 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
