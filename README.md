@@ -6,7 +6,7 @@ I'm halo
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 61 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
